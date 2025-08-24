@@ -15,15 +15,6 @@ Permite agregar nombres a una lista y luego realizar un sorteo aleatorio para se
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ---
-
-### 📂 Estructura del proyecto
-amigo-secreto/
-│── index.html        # Página principal
-│── style.css         # Estilos
-│── app.js            # Lógica
-└── assets/           # Imágenes
-
----
 ### ⚙️ Instalación y uso
 <ol>
   <li>Clona este repositorio en tu máquina local:</li>
@@ -35,6 +26,7 @@ amigo-secreto/
   <li>Abre el archivo <b>index.html</b> en tu navegador favorito.<br>
   <i>(No requiere instalación de dependencias)</i> 🚀</li>
 </ol>
+
 ---
 ### 🖥️ Ejemplo de uso
 - Escribe un nombre en el campo de texto y haz clic en Añadir.
