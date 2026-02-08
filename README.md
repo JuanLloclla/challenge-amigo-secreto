@@ -2,7 +2,7 @@
 Aplicación web simple para organizar un sorteo de *amigo secreto*.
 Permite agregar nombres a una lista y luego realizar un sorteo aleatorio para seleccionar un participante.
 
-<a href="https://tuusuario.github.io/nombredelrepo" target="_blank">🌐 Ver proyecto desplegado</a>
+<a href="https://juanlloclla.github.io/challenge-amigo-secreto" target="_blank">🌐 Ver proyecto desplegado</a>
 
 ---
 ### 🚀 Funcionalidades
